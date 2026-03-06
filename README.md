@@ -12,9 +12,7 @@ Thanks for visiting my GitHub profile!
 
 Let me give you a quick overview of what I do here!
 
-I am **Sriya**, a B.Tech Computer Science Engineering student who enjoys exploring different areas of technology.  
-
-I like learning about **Artificial Intelligence, Machine Learning, Data Science, and Software Development**, and building small projects to understand how things actually work.
+Here you'll find the projects I built while learning **Artificial Intelligence, Machine Learning, Web Development, and Data Structures**.
 
 Currently, I spend my time:
 - Practicing **Data Structures and Algorithms**
@@ -58,15 +56,18 @@ Currently, I spend my time:
 
 ---
 
+## Github Statistics
+
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sriyasnehasis&show_icons=true&theme=tokyonight&hide=prs,issues,contribs&cache_seconds=1800"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sriyasnehasis&show_icons=true&theme=tokyonight&hide=prs,issues,contribs&cache_seconds=1800"/>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriyasnehasis&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sriyasnehasis&layout=compact&theme=tokyonight"/>
 
 </p>
+
 ---
 
 ## Connect With Me
