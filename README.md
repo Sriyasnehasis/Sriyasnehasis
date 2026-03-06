@@ -5,7 +5,6 @@ B.Tech Computer Science Student | Exploring AI, ML & Data Science
 
 ---
 
-## Hello there! 👋
 Thanks for visiting my GitHub profile!
 
 Here you'll find the projects I built while learning **Artificial Intelligence, Machine Learning, Web Development, and Data Structures**.
@@ -43,12 +42,15 @@ I enjoy exploring how technology can solve real-world problems and continuously 
 
 ---
 
-## GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriyasnehasis&layout=compact&theme=tokyonight"/>
-</p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=Sriyasnehasis&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriyasnehasis&layout=compact&theme=tokyonight"/>
+
+</p>
 ---
 
 ## Connect With Me
