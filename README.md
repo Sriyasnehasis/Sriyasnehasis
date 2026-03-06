@@ -58,14 +58,14 @@ Currently, I spend my time:
 
 ---
 
-## GitHub Statistics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sriyasnehasis&show_icons=true&theme=tokyonight&hide=prs,issues,contribs&cache_seconds=1800" alt="Sriya's GitHub Stats" />
-  
-  <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriyasnehasis&layout=compact&theme=tokyonight" alt="Sriya's Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sriyasnehasis&show_icons=true&theme=tokyonight&hide=prs,issues,contribs&cache_seconds=1800"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriyasnehasis&layout=compact&theme=tokyonight"/>
+
 </p>
 ---
 
