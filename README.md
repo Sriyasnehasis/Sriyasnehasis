@@ -1,7 +1,7 @@
 <h2 align="center">Hello👋, I'm Sriya 👩‍💻</h2>
 <p align="center">
-✨ B.Tech Computer Science Engineering Student <br>
-🚀 Interested in AI, Machine Learning, Cybersecurity & Development
+ B.Tech Computer Science Engineering Student <br>
+ Interested in AI, Machine Learning, Data Science & Development
 </p>
 
 ---
