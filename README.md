@@ -1,4 +1,4 @@
-<h2 align="center">Hello👋, I'm Sriya 👩‍💻</h2>
+<h2 align="center">Hello!👋, I'm Sriya 👩‍💻</h2>
 <p align="center">
  B.Tech Computer Science Engineering Student <br>
  Interested in AI, Machine Learning, Data Science & Development
@@ -6,9 +6,9 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
   
-I see you've come to visit 🤭  
+Thanks for visiting my GitHub profile!  
 
 Let me give you a quick overview of what I do here!
 
@@ -24,7 +24,7 @@ Currently, I spend my time:
 
 ---
 
-## 💡 Tech Stack
+## Tech Stack
 
 <p>
 
@@ -58,7 +58,7 @@ Currently, I spend my time:
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
 
@@ -72,7 +72,7 @@ Currently, I spend my time:
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 <p>
 
