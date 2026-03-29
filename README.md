@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=33&pause=10000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=SRIYA+SNEHASIS+👋" alt="Name" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=500&color=7AA2F7&center=true&vCenter=true&width=500&height=40&lines=|Machine+Learning+Explorer|;|Backend+Developer|;|Data+Science+Researcher|" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=80&repeat=false&lines=SRIYA+SNEHASIS+👋" alt="Name" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&height=50&lines=%E2%9E%A4+Machine+Learning+Researcher;%E2%9E%A4+Backend+Developer;%E2%9E%A4+Data+Science+Explorer" alt="Role Animation" />
 </p>
 
 ---
@@ -33,6 +34,7 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 </p>
 
 **Databases & Cloud**
@@ -63,21 +65,16 @@
 
 ---
 
+
 ## 📊 GitHub Performance
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Sriyasnehasis&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriyasnehasis&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sriyasnehasis&theme=tokyonight&hide_border=true" height="180" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sriyasnehasis&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_weight=0.5" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sriyasnehasis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sriyasnehasis&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+  
 
 ---
 ### 🕹️ Contribution Game Animation
@@ -89,13 +86,7 @@
 ##  Connect With Me
 
 <p align="left">
-<a href="mailto:sriyasnehasis908@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/sriya-snehasis19">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Sriyasnehasis">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="mailto:sriyasnehasis908@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sriyasnehasis908" /></a>
+<a href="https://linkedin.com/in/sriya-snehasis19" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sriya-snehasis19" /></a>
+<a href="https://github.com/Sriyasnehasis" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Sriyasnehasis" /></a>
 </p>
