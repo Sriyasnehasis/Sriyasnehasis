@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=80&repeat=false&lines=SRIYA+SNEHASIS+👋" alt="Name" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=80&repeat=false&lines=SRIYA+SNEHASIS+👋" alt="Name" />
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&height=50&lines=%E2%9E%A4+Machine+Learning+Researcher;%E2%9E%A4+Backend+Developer;%E2%9E%A4+Data+Science+Explorer" alt="Role Animation" />
 </p>
