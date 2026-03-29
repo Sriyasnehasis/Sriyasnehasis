@@ -71,10 +71,10 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Sriyasnehasis&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriyasnehasis&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriyasnehasis&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sriyasnehasis&theme=tokyonight&hide_border=true" height="180" />
+      <img src="https://streak-stats.demolab.com/?user=Sriyasnehasis&theme=tokyonight&hide_border=true" height="180" />
     </td>
   </tr>
 </table>
