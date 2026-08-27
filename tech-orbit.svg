@@ -1,0 +1,123 @@
+<svg viewBox="0 0 780 480" xmlns="http://www.w3.org/2000/svg" font-family="Fira Code, monospace">
+  <defs>
+    <radialGradient id="bgGlow" cx="50%" cy="42%" r="75%">
+      <stop offset="0%" stop-color="#141033"/>
+      <stop offset="55%" stop-color="#0a0818"/>
+      <stop offset="100%" stop-color="#040309"/>
+    </radialGradient>
+    <radialGradient id="coreGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00ffe0" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#00ffe0" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="780" height="480" rx="14" fill="url(#bgGlow)"/>
+
+  <!-- scattered stars -->
+  <g fill="#ffffff">
+    <circle cx="45" cy="34" r="1.2" opacity="0.6"/>
+    <circle cx="130" cy="76" r="1" opacity="0.4"/>
+    <circle cx="690" cy="46" r="1.4" opacity="0.7"/>
+    <circle cx="730" cy="130" r="1" opacity="0.5"/>
+    <circle cx="60" cy="400" r="1.2" opacity="0.5"/>
+    <circle cx="710" cy="420" r="1.3" opacity="0.6"/>
+    <circle cx="34" cy="220" r="1" opacity="0.4"/>
+    <circle cx="750" cy="270" r="1.2" opacity="0.5"/>
+    <circle cx="390" cy="24" r="1" opacity="0.4"/>
+    <circle cx="210" cy="450" r="1" opacity="0.4"/>
+  </g>
+
+  <!-- section label -->
+  <text x="390" y="42" text-anchor="middle" fill="#7dd3c8" font-size="13" letter-spacing="3" opacity="0.85">TECH ORBIT</text>
+
+  <!-- orbit path definitions: real rotated-ellipse arc geometry, used for BOTH the visible ring AND the motion path -->
+  <path id="orbit1Path" d="M538.54,239.12 A150,60 -8 0,1 241.46,280.88 A150,60 -8 0,1 538.54,239.12"
+        fill="none" stroke="#00ffe0" stroke-width="1" opacity="0.35"/>
+  <path id="orbit2Path" d="M616.51,299.94 A230,95 10 0,1 163.49,220.06 A230,95 10 0,1 616.51,299.94"
+        fill="none" stroke="#a78bfa" stroke-width="1" opacity="0.35"/>
+  <path id="orbit3Path" d="M690.79,185.00 A310,130 -14 0,1 89.21,335.00 A310,130 -14 0,1 690.79,185.00"
+        fill="none" stroke="#fbbf24" stroke-width="1" opacity="0.3"/>
+
+  <!-- core -->
+  <circle cx="390" cy="260" r="34" fill="url(#coreGlow)"/>
+  <circle cx="390" cy="260" r="11" fill="#00ffe0" filter="url(#softGlow)"/>
+
+  <!-- ORBIT 1 dots: locked to orbit1Path via mpath -->
+  <g>
+    <circle r="6" fill="#00ffe0" filter="url(#softGlow)"/>
+    <text x="12" y="4" fill="#00ffe0" font-size="11">Python</text>
+    <animateMotion dur="13s" repeatCount="indefinite" begin="0s" rotate="0">
+      <mpath href="#orbit1Path"/>
+    </animateMotion>
+  </g>
+  <g>
+    <circle r="6" fill="#5eead4" filter="url(#softGlow)"/>
+    <text x="12" y="4" fill="#5eead4" font-size="11">C++</text>
+    <animateMotion dur="13s" repeatCount="indefinite" begin="-4.33s" rotate="0">
+      <mpath href="#orbit1Path"/>
+    </animateMotion>
+  </g>
+  <g>
+    <circle r="6" fill="#67e8f9" filter="url(#softGlow)"/>
+    <text x="12" y="4" fill="#67e8f9" font-size="11">Java</text>
+    <animateMotion dur="13s" repeatCount="indefinite" begin="-8.67s" rotate="0">
+      <mpath href="#orbit1Path"/>
+    </animateMotion>
+  </g>
+
+  <!-- ORBIT 2 dots: locked to orbit2Path -->
+  <g>
+    <circle r="7" fill="#a78bfa" filter="url(#softGlow)"/>
+    <text x="13" y="4" fill="#a78bfa" font-size="12">NumPy</text>
+    <animateMotion dur="21s" repeatCount="indefinite" begin="0s" rotate="0">
+      <mpath href="#orbit2Path"/>
+    </animateMotion>
+  </g>
+  <g>
+    <circle r="7" fill="#c4b5fd" filter="url(#softGlow)"/>
+    <text x="13" y="4" fill="#c4b5fd" font-size="12">Pandas</text>
+    <animateMotion dur="21s" repeatCount="indefinite" begin="-7s" rotate="0">
+      <mpath href="#orbit2Path"/>
+    </animateMotion>
+  </g>
+  <g>
+    <circle r="7" fill="#f0abfc" filter="url(#softGlow)"/>
+    <text x="13" y="4" fill="#f0abfc" font-size="12">OpenCV</text>
+    <animateMotion dur="21s" repeatCount="indefinite" begin="-14s" rotate="0">
+      <mpath href="#orbit2Path"/>
+    </animateMotion>
+  </g>
+
+  <!-- ORBIT 3 dots: locked to orbit3Path -->
+  <g>
+    <circle r="7" fill="#fbbf24" filter="url(#softGlow)"/>
+    <text x="13" y="4" fill="#fbbf24" font-size="12">MongoDB</text>
+    <animateMotion dur="30s" repeatCount="indefinite" begin="0s" rotate="0">
+      <mpath href="#orbit3Path"/>
+    </animateMotion>
+  </g>
+  <g>
+    <circle r="7" fill="#fde047" filter="url(#softGlow)"/>
+    <text x="13" y="4" fill="#fde047" font-size="12">PostgreSQL</text>
+    <animateMotion dur="30s" repeatCount="indefinite" begin="-10s" rotate="0">
+      <mpath href="#orbit3Path"/>
+    </animateMotion>
+  </g>
+  <g>
+    <circle r="7" fill="#fcd34d" filter="url(#softGlow)"/>
+    <text x="13" y="4" fill="#fcd34d" font-size="12">AWS</text>
+    <animateMotion dur="30s" repeatCount="indefinite" begin="-20s" rotate="0">
+      <mpath href="#orbit3Path"/>
+    </animateMotion>
+  </g>
+
+  <!-- quote -->
+  <text x="390" y="450" text-anchor="middle" fill="#7dd3c8" font-size="12" font-style="italic" opacity="0.85">"Turning data into decisions, one model at a time."</text>
+</svg>
