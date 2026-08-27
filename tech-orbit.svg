@@ -1,0 +1,129 @@
+<svg viewBox="0 0 760 460" xmlns="http://www.w3.org/2000/svg" font-family="Fira Code, monospace">
+  <defs>
+    <radialGradient id="bgGlow" cx="50%" cy="45%" r="70%">
+      <stop offset="0%" stop-color="#1b1035"/>
+      <stop offset="60%" stop-color="#0f0c29"/>
+      <stop offset="100%" stop-color="#05040d"/>
+    </radialGradient>
+    <radialGradient id="coreGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00ffe0"/>
+      <stop offset="100%" stop-color="#00ffe0" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="760" height="460" rx="14" fill="url(#bgGlow)"/>
+
+  <!-- scattered stars -->
+  <g fill="#ffffff">
+    <circle cx="40" cy="30" r="1.2" opacity="0.6"/>
+    <circle cx="120" cy="70" r="1" opacity="0.4"/>
+    <circle cx="680" cy="40" r="1.4" opacity="0.7"/>
+    <circle cx="720" cy="120" r="1" opacity="0.5"/>
+    <circle cx="60" cy="380" r="1.2" opacity="0.5"/>
+    <circle cx="700" cy="400" r="1.3" opacity="0.6"/>
+    <circle cx="30" cy="200" r="1" opacity="0.4"/>
+    <circle cx="740" cy="250" r="1.2" opacity="0.5"/>
+    <circle cx="380" cy="20" r="1" opacity="0.4"/>
+    <circle cx="200" cy="440" r="1" opacity="0.4"/>
+  </g>
+
+  <!-- name + tagline -->
+  <text x="380" y="40" text-anchor="middle" fill="#ffffff" font-size="22" font-weight="700">Sriya Snehasis</text>
+  <text x="380" y="62" text-anchor="middle" fill="#7dd3c8" font-size="12">ML Researcher &amp; Backend Developer</text>
+
+  <!-- orbit paths -->
+  <ellipse cx="380" cy="250" rx="150" ry="60" fill="none" stroke="#2c5364" stroke-width="1" opacity="0.5"/>
+  <ellipse cx="380" cy="250" rx="230" ry="100" fill="none" stroke="#3a2f6b" stroke-width="1" opacity="0.5"/>
+  <ellipse cx="380" cy="250" rx="310" ry="140" fill="none" stroke="#4b2f56" stroke-width="1" opacity="0.45"/>
+
+  <!-- core -->
+  <circle cx="380" cy="250" r="30" fill="url(#coreGlow)"/>
+  <circle cx="380" cy="250" r="14" fill="#00ffe0" filter="url(#softGlow)"/>
+  <text x="380" y="255" text-anchor="middle" fill="#05040d" font-size="14" font-weight="700">S</text>
+
+  <!-- ORBIT 1: Languages (fast) -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 380 250" to="360 380 250" dur="14s" repeatCount="indefinite"/>
+    <g transform="translate(530 250)">
+      <circle r="6" fill="#facc15" filter="url(#softGlow)"/>
+      <text x="12" y="4" fill="#facc15" font-size="11">Python</text>
+    </g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="130 380 250" to="490 380 250" dur="14s" repeatCount="indefinite"/>
+    <g transform="translate(530 250)">
+      <circle r="6" fill="#f97316" filter="url(#softGlow)"/>
+      <text x="12" y="4" fill="#f97316" font-size="11">Java</text>
+    </g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="250 380 250" to="610 380 250" dur="14s" repeatCount="indefinite"/>
+    <g transform="translate(530 250)">
+      <circle r="6" fill="#60a5fa" filter="url(#softGlow)"/>
+      <text x="12" y="4" fill="#60a5fa" font-size="11">C++</text>
+    </g>
+  </g>
+
+  <!-- ORBIT 2: Data / ML tools (medium) -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 380 250" to="-360 380 250" dur="22s" repeatCount="indefinite"/>
+    <g transform="translate(610 250)">
+      <circle r="7" fill="#00ffe0" filter="url(#softGlow)"/>
+      <text x="13" y="4" fill="#00ffe0" font-size="12">NumPy / Pandas</text>
+    </g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="120 380 250" to="-240 380 250" dur="22s" repeatCount="indefinite"/>
+    <g transform="translate(610 250)">
+      <circle r="7" fill="#a78bfa" filter="url(#softGlow)"/>
+      <text x="13" y="4" fill="#a78bfa" font-size="12">OpenCV</text>
+    </g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="240 380 250" to="-120 380 250" dur="22s" repeatCount="indefinite"/>
+    <g transform="translate(610 250)">
+      <circle r="7" fill="#fb7185" filter="url(#softGlow)"/>
+      <text x="13" y="4" fill="#fb7185" font-size="12">Matplotlib</text>
+    </g>
+  </g>
+
+  <!-- ORBIT 3: Infra / Backend (slow) -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 380 250" to="360 380 250" dur="32s" repeatCount="indefinite"/>
+    <g transform="translate(690 250)">
+      <circle r="7" fill="#34d399" filter="url(#softGlow)"/>
+      <text x="13" y="4" fill="#34d399" font-size="12">MongoDB</text>
+    </g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="90 380 250" to="450 380 250" dur="32s" repeatCount="indefinite"/>
+    <g transform="translate(690 250)">
+      <circle r="7" fill="#38bdf8" filter="url(#softGlow)"/>
+      <text x="13" y="4" fill="#38bdf8" font-size="12">PostgreSQL</text>
+    </g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="180 380 250" to="540 380 250" dur="32s" repeatCount="indefinite"/>
+    <g transform="translate(690 250)">
+      <circle r="7" fill="#fbbf24" filter="url(#softGlow)"/>
+      <text x="13" y="4" fill="#fbbf24" font-size="12">AWS</text>
+    </g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="270 380 250" to="630 380 250" dur="32s" repeatCount="indefinite"/>
+    <g transform="translate(690 250)">
+      <circle r="7" fill="#818cf8" filter="url(#softGlow)"/>
+      <text x="13" y="4" fill="#818cf8" font-size="12">Docker</text>
+    </g>
+  </g>
+
+  <!-- quote -->
+  <text x="380" y="430" text-anchor="middle" fill="#7dd3c8" font-size="11" font-style="italic" opacity="0.85">"Turning data into decisions, one model at a time."</text>
+</svg>
