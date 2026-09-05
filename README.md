@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=56C2C2&center=true&vCenter=true&width=500&height=50&lines=Sriya+Snehasis" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F0F4F5&center=true&vCenter=true&width=500&height=50&lines=Sriya+Snehasis" />
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=7FA3A8&center=true&vCenter=true&width=600&lines=Python+%2B+FastAPI+%2B+React;TensorFlow+%2B+Firebase+%2B+GPT-4;Full-Stack+%2B+GenAI+Builder" />
 </p>
@@ -68,78 +68,46 @@ Hey! I'm Sriya, a CS undergrad — somewhere between "still learning" and "actua
 
 <br/>
 
-<br/>
-
-<table align="center" width="100%" bgcolor="#0b0e14" cellpadding="18" cellspacing="0">
-<tr><td align="center">
-
-<img src="https://img.shields.io/badge/~/-tech%20orbit-0b0e14?style=flat-square&labelColor=101620&color=0b0e14"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Sriyasnehasis/Sriyasnehasis/main/tech-orbit.svg" width="100%"/>
-
-</td></tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/~/-tech%20orbit-0b0e14?style=flat-square&labelColor=101620&color=0b0e14"/>
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/Sriyasnehasis/Sriyasnehasis/main/tech-orbit.svg" width="100%"/>
+</p>
 
 <br/>
 
-<table align="center" width="100%" bgcolor="#0b0e14" cellpadding="18" cellspacing="0">
-<tr><td align="center">
-
-<img src="https://raw.githubusercontent.com/Sriyasnehasis/Sriyasnehasis/main/skill-radar.svg" width="100%"/>
-
-</td></tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sriyasnehasis/Sriyasnehasis/main/skill-radar.svg" width="100%"/>
+</p>
 
 <br/>
 
-<table align="center" width="100%" bgcolor="#0b0e14" cellpadding="18" cellspacing="0">
-<tr><td align="center">
-
-<img src="https://img.shields.io/badge/~/-the%20numbers-0b0e14?style=flat-square&labelColor=101620&color=0b0e14"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sriyasnehasis&show_icons=true&hide_border=true&hide_title=true&bg_color=0b0e14&icon_color=56C2C2&text_color=CFE8E6&title_color=56C2C2" height="165" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sriyasnehasis&layout=compact&hide_border=true&hide_title=true&bg_color=0b0e14&text_color=CFE8E6&title_color=56C2C2" height="165" />
-<br/>
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Sriyasnehasis&hide_border=true&background=0b0e14&ring=56C2C2&fire=56C2C2&currStreakNum=CFE8E6&sideNums=CFE8E6&currStreakLabel=56C2C2&sideLabels=7FA3A8&dates=7FA3A8" height="165" />
-
-</td></tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/~/-the%20numbers-0b0e14?style=flat-square&labelColor=101620&color=0b0e14"/>
+  <br/><br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sriyasnehasis&show_icons=true&hide_border=true&hide_title=true&bg_color=0b0e14&icon_color=56C2C2&text_color=CFE8E6&title_color=56C2C2" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sriyasnehasis&layout=compact&hide_border=true&hide_title=true&bg_color=0b0e14&text_color=CFE8E6&title_color=56C2C2" height="165" />
+  <br/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Sriyasnehasis&hide_border=true&background=0b0e14&ring=56C2C2&fire=56C2C2&currStreakNum=CFE8E6&sideNums=CFE8E6&currStreakLabel=56C2C2&sideLabels=7FA3A8&dates=7FA3A8" height="165" />
+</p>
 
 <br/>
 
-<table align="center" width="100%" bgcolor="#0b0e14" cellpadding="18" cellspacing="0">
-<tr><td align="center">
-
-<img src="https://img.shields.io/badge/~/-achievements-0b0e14?style=flat-square&labelColor=101620&color=0b0e14"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sriyasnehasis&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-
-</td></tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/~/-achievements-0b0e14?style=flat-square&labelColor=101620&color=0b0e14"/>
+  <br/><br/>
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=Sriyasnehasis&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+</p>
 
 <br/>
 
-<table align="center" width="100%" bgcolor="#0b0e14" cellpadding="18" cellspacing="0">
-<tr><td align="center">
-
-<img src="https://img.shields.io/badge/~/-contribution%20calendar-0b0e14?style=flat-square&labelColor=101620&color=0b0e14"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Sriyasnehasis/Sriyasnehasis/main/profile-3d-contrib/profile-green-animate.svg"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Sriyasnehasis/Sriyasnehasis/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2356C2C2&color_dots=%23101620%2C%232a261f%2C%236b4f24%2C%23a97c36%2C%23d8a94b" alt="Snake Animation" />
-
-</td></tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/~/-contribution%20calendar-0b0e14?style=flat-square&labelColor=101620&color=0b0e14"/>
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/Sriyasnehasis/Sriyasnehasis/main/profile-3d-contrib/profile-night-green.svg"/>
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/Sriyasnehasis/Sriyasnehasis/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2356C2C2&color_dots=%23101620%2C%232a261f%2C%236b4f24%2C%23a97c36%2C%23d8a94b" alt="Snake Animation" />
+</p>
 
 <br/>
 
