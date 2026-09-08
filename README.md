@@ -94,19 +94,19 @@ Hey! I'm Sriya, a CS undergrad — somewhere between "still learning" and "actua
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/~/-achievements-0b0e14?style=flat-square&labelColor=101620&color=0b0e14"/>
-  <br/><br/>
-  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=Sriyasnehasis&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-</p>
-
-<br/>
-
-<p align="center">
   <img src="https://img.shields.io/badge/~/-contribution%20calendar-0b0e14?style=flat-square&labelColor=101620&color=0b0e14"/>
   <br/><br/>
   <img src="https://raw.githubusercontent.com/Sriyasnehasis/Sriyasnehasis/main/profile-3d-contrib/profile-night-green.svg"/>
   <br/><br/>
   <img src="https://raw.githubusercontent.com/Sriyasnehasis/Sriyasnehasis/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2356C2C2&color_dots=%23101620%2C%232a261f%2C%236b4f24%2C%23a97c36%2C%23d8a94b" alt="Snake Animation" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/~/-achievements-0b0e14?style=flat-square&labelColor=101620&color=0b0e14"/>
+  <br/><br/>
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=Sriyasnehasis&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 </p>
 
 <br/>
