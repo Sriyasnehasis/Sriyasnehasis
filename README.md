@@ -83,30 +83,11 @@ Hey! I'm Sriya, a CS undergrad — somewhere between "still learning" and "actua
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/~/-the%20numbers-0b0e14?style=flat-square&labelColor=101620&color=0b0e14"/>
-  <br/><br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sriyasnehasis&show_icons=true&hide_border=true&hide_title=true&bg_color=0b0e14&icon_color=56C2C2&text_color=CFE8E6&title_color=56C2C2" height="165" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sriyasnehasis&layout=compact&hide_border=true&hide_title=true&bg_color=0b0e14&text_color=CFE8E6&title_color=56C2C2" height="165" />
-  <br/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Sriyasnehasis&hide_border=true&background=0b0e14&ring=56C2C2&fire=56C2C2&currStreakNum=CFE8E6&sideNums=CFE8E6&currStreakLabel=56C2C2&sideLabels=7FA3A8&dates=7FA3A8" height="165" />
-</p>
-
-<br/>
-
-<p align="center">
   <img src="https://img.shields.io/badge/~/-contribution%20calendar-0b0e14?style=flat-square&labelColor=101620&color=0b0e14"/>
   <br/><br/>
   <img src="https://raw.githubusercontent.com/Sriyasnehasis/Sriyasnehasis/main/profile-3d-contrib/profile-night-green.svg"/>
   <br/><br/>
   <img src="https://raw.githubusercontent.com/Sriyasnehasis/Sriyasnehasis/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2356C2C2&color_dots=%23101620%2C%232a261f%2C%236b4f24%2C%23a97c36%2C%23d8a94b" alt="Snake Animation" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/~/-achievements-0b0e14?style=flat-square&labelColor=101620&color=0b0e14"/>
-  <br/><br/>
-  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=Sriyasnehasis&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 </p>
 
 <br/>
