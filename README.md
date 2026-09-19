@@ -68,13 +68,15 @@ Hey! I'm Sriya, a CS undergrad — somewhere between "still learning" and "actua
 
 <br/>
 
+## 🪐 Tech Orbit
+
 <p align="center">
-  <img src="https://img.shields.io/badge/~/-tech%20orbit-0b0e14?style=flat-square&labelColor=101620&color=0b0e14"/>
-  <br/><br/>
   <img src="https://raw.githubusercontent.com/Sriyasnehasis/Sriyasnehasis/main/tech-orbit.svg" width="100%"/>
 </p>
 
 <br/>
+
+## 📡 Skill Radar
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sriyasnehasis/Sriyasnehasis/main/skill-radar.svg" width="100%"/>
@@ -82,9 +84,111 @@ Hey! I'm Sriya, a CS undergrad — somewhere between "still learning" and "actua
 
 <br/>
 
+## 📅 Contribution Calendar
 <p align="center">
-  <img src="https://img.shields.io/badge/~/-contribution%20calendar-0b0e14?style=flat-square&labelColor=101620&color=0b0e14"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F0F4F5&center=true&vCenter=true&width=500&height=50&lines=Sriya+Snehasis" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=8B949E&center=true&vCenter=true&width=600&lines=Python+%2B+FastAPI+%2B+React;TensorFlow+%2B+Firebase+%2B+GPT-4;Full-Stack+%2B+GenAI+Builder" />
+</p>
+
+<br/>
+
+## 👩‍💻 About Me
+
+Hey! I'm Sriya, a CS undergrad — somewhere between "still learning" and "actually building."
+
+🤖&nbsp; Passionate about **Artificial Intelligence, Machine Learning & Data Science**
+<br/>
+🚀&nbsp; Building **intelligent models & data-driven applications**
+<br/>
+📂&nbsp; Exploring **database systems & scalable backend architectures**
+<br/>
+💡&nbsp; Sharpening **problem-solving & development skills** through hands-on projects
+
+<br/>
+
+## 🛠️ Tech Stack & Ecosystem
+
+**Languages & Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-0b0e14?style=flat-square&logo=python&logoColor=E6EDF3"/>
+  <img src="https://img.shields.io/badge/Java-0b0e14?style=flat-square&logo=openjdk&logoColor=E6EDF3"/>
+  <img src="https://img.shields.io/badge/C++-0b0e14?style=flat-square&logo=cplusplus&logoColor=E6EDF3"/>
+  <img src="https://img.shields.io/badge/C-0b0e14?style=flat-square&logo=c&logoColor=E6EDF3"/>
+  <img src="https://img.shields.io/badge/JavaScript-0b0e14?style=flat-square&logo=javascript&logoColor=E6EDF3"/>
+  <img src="https://img.shields.io/badge/React-0b0e14?style=flat-square&logo=react&logoColor=E6EDF3"/>
+  <img src="https://img.shields.io/badge/Next.js-0b0e14?style=flat-square&logo=nextdotjs&logoColor=E6EDF3"/>
+  <img src="https://img.shields.io/badge/FastAPI-0b0e14?style=flat-square&logo=fastapi&logoColor=E6EDF3"/>
+  <img src="https://img.shields.io/badge/Flask-0b0e14?style=flat-square&logo=flask&logoColor=E6EDF3"/>
+</p>
+
+**Data Science & Analysis**
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-0b0e14?style=flat-square&logo=tensorflow&logoColor=E6EDF3"/>
+  <img src="https://img.shields.io/badge/OpenCV-0b0e14?style=flat-square&logo=opencv&logoColor=E6EDF3"/>
+  <img src="https://img.shields.io/badge/NumPy-0b0e14?style=flat-square&logo=numpy&logoColor=E6EDF3"/>
+  <img src="https://img.shields.io/badge/Pandas-0b0e14?style=flat-square&logo=pandas&logoColor=E6EDF3"/>
+  <img src="https://img.shields.io/badge/Matplotlib-0b0e14?style=flat-square&logo=plotly&logoColor=E6EDF3"/>
+  <img src="https://img.shields.io/badge/Streamlit-0b0e14?style=flat-square&logo=streamlit&logoColor=E6EDF3"/>
+</p>
+
+**Databases & Cloud**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-0b0e14?style=flat-square&logo=mysql&logoColor=E6EDF3"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0b0e14?style=flat-square&logo=postgresql&logoColor=E6EDF3"/>
+  <img src="https://img.shields.io/badge/MongoDB-0b0e14?style=flat-square&logo=mongodb&logoColor=E6EDF3"/>
+  <img src="https://img.shields.io/badge/Supabase-0b0e14?style=flat-square&logo=supabase&logoColor=E6EDF3"/>
+  <img src="https://img.shields.io/badge/Firebase-0b0e14?style=flat-square&logo=firebase&logoColor=E6EDF3"/>
+  <img src="https://img.shields.io/badge/Redis-0b0e14?style=flat-square&logo=redis&logoColor=E6EDF3"/>
+  <img src="https://img.shields.io/badge/AWS-0b0e14?style=flat-square&logo=amazon-aws&logoColor=E6EDF3"/>
+  <img src="https://img.shields.io/badge/Docker-0b0e14?style=flat-square&logo=docker&logoColor=E6EDF3"/>
+</p>
+
+**Tools & Web**
+<p align="left">
+  <img src="https://img.shields.io/badge/WordPress-0b0e14?style=flat-square&logo=wordpress&logoColor=E6EDF3"/>
+  <img src="https://img.shields.io/badge/WooCommerce-0b0e14?style=flat-square&logo=woocommerce&logoColor=E6EDF3"/>
+  <img src="https://img.shields.io/badge/Elementor-0b0e14?style=flat-square&logo=elementor&logoColor=E6EDF3"/>
+  <img src="https://img.shields.io/badge/Git-0b0e14?style=flat-square&logo=git&logoColor=E6EDF3"/>
+  <img src="https://img.shields.io/badge/GitHub-0b0e14?style=flat-square&logo=github&logoColor=E6EDF3"/>
+</p>
+
+<br/>
+
+## 🪐 Tech Orbit
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sriyasnehasis/Sriyasnehasis/main/tech-orbit.svg" width="100%"/>
+</p>
+
+<br/>
+
+## 📡 Skill Radar
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sriyasnehasis/Sriyasnehasis/main/skill-radar.svg" width="100%"/>
+</p>
+
+<br/>
+
+## 📅 Contribution Calendar
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sriyasnehasis/Sriyasnehasis/main/profile-3d-contrib/profile-night-green.svg"/>
   <br/><br/>
+  <img src="https://raw.githubusercontent.com/Sriyasnehasis/Sriyasnehasis/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23E6EDF3&color_dots=%23101620%2C%232a261f%2C%236b4f24%2C%23a97c36%2C%23d8a94b" alt="Snake Animation" />
+</p>
+
+<br/>
+
+## 📟 Connect With Me
+
+<p align="left">
+  <a href="mailto:sriyasnehasis908@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-21262D?style=for-the-badge&logo=gmail&logoColor=EAFFFB" alt="sriyasnehasis908" /></a>
+  <a href="https://linkedin.com/in/sriya-snehasis19" target="blank"><img src="https://img.shields.io/badge/LinkedIn-21262D?style=for-the-badge&logo=linkedin&logoColor=EAFFFB" alt="sriya-snehasis19" /></a>
+  <a href="https://github.com/Sriyasnehasis" target="blank"><img src="https://img.shields.io/badge/GitHub-101620?style=for-the-badge&logo=github&logoColor=EAFFFB" alt="Sriyasnehasis" /></a>
+</p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/Sriyasnehasis/Sriyasnehasis/main/profile-3d-contrib/profile-night-green.svg"/>
   <br/><br/>
   <img src="https://raw.githubusercontent.com/Sriyasnehasis/Sriyasnehasis/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2356C2C2&color_dots=%23101620%2C%232a261f%2C%236b4f24%2C%23a97c36%2C%23d8a94b" alt="Snake Animation" />
